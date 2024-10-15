@@ -2,3 +2,7 @@ Log 15:12
 
 - Created an empty repository named "practical 2"
 - Cloned it in the computer
+
+Log 15:45
+
+- Working with Person B (Myself)
