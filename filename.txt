@@ -1,0 +1,4 @@
+Log 15:12
+
+- Created an empty repository named "practical 2"
+- Cloned it in the computer
